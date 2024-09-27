@@ -40,6 +40,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     HiltTheme {
-        Greeting("Android")
+        Greeting("Sami")
     }
 }
